@@ -1,10 +1,10 @@
 # Kybernes Softworks
 
-A repository for a project I have started for Saints Row 3, I don't like the existing tools for Saints Row 3 so I'm making better software so modders don't need to use console applications or be forced to compile C#/C++ code just to access the files of Saints Row 3. This repository will be updated overtime. Scroll down for GUI examples if desired. Kybernes Softworks can fully unpack Saints Row 3 whether you're unpacking only top level files or a full unpack (405,694 files), it also properly rebuilds mini archives like .str2. Kybernes Softworks is written in C and can unpack faster than all of the existing unpackers other people have made.
+A repository for a project for Saints Row 3, I don't like the existing tools for Saints Row 3 so I'm making better software so modders don't need to use console applications or be forced to compile C#/C++ code just to access the files of Saints Row 3. This repository will be updated overtime. Scroll down for GUI examples if desired. Kybernes Softworks can fully unpack Saints Row 3 whether you're unpacking only top level files or a full unpack (405,694 files), it also properly rebuilds mini archives like .str2. Kybernes Softworks is written in C and can unpack faster than all of the existing unpackers other people have made.
 
 # Inspiration for the software's title
 
-Kybernes Manufacturing Company from the anime Argevollen 
+Kybernes Manufacturing Company from the anime Argevollen. It's a rad anime
 
 # GUI examples, a true custom design
 
